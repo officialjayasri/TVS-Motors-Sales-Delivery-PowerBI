@@ -71,12 +71,8 @@ Interactive filters and visualizations enable users to analyze performance acros
 
 The dashboard centralized sales and delivery performance reporting and reduced manual reporting effort by **40%**, enabling faster access to business KPIs and supporting data-driven decision-making.
 
-
 ## Dashboard Preview
 
 ### TVS Sales Dashboard
 
-![TVS Sales Dashboard](Dashboard/Tvs%20sales%20dashboard.png)
-### TVS Motors Sales & Delivery Performance Dashboard
-
-
+![TVS Sales Dashboard](./Dashboard/TVS%20SALES%20DASHBOARD.png)
